@@ -1,0 +1,12 @@
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\bin\Debug\net6.0\SoapClient.deps.json
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\bin\Debug\net6.0\SoapClient.dll
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\bin\Debug\net6.0\SoapClient.pdb
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.csproj.AssemblyReference.cache
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.AssemblyInfoInputs.cache
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.AssemblyInfo.cs
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.csproj.CoreCompileInputs.cache
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.dll
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\refint\SoapClient.dll
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\SoapClient.pdb
+C:\Users\faith.olusegun\source\propenster\SplitItAppProject\SplitItApp.API\SoapClient\SoapClient\obj\Debug\net6.0\ref\SoapClient.dll
