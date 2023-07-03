@@ -11,7 +11,6 @@ namespace SoapClient
 {
     public static class ServiceCollectionExtension
     {
-
         public static IServiceCollection AddSoapClient(this IServiceCollection services)
         {
             var spHandler = new HttpClientHandler()
